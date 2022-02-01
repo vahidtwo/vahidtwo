@@ -7,9 +7,7 @@
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about python
 - 📫 How to reach me: any sosial media
-im currently work on plascoapp.com
-in rell with python and django
-born in 1996
+- 🎉 1996
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vahidtwo ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vahidtwo) 
