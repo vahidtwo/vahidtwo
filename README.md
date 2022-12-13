@@ -3,7 +3,6 @@
 
 # 💫About Me :
 - 🔭 I’m currently working on plascoapp.com
-- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about python
 - 📫 How to reach me: any sosial media
