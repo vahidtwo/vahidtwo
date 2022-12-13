@@ -19,9 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vahidtwo&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vahidtwo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 ![](https://komarev.com/ghpvc/?username=vahidtwo&label=Visitors+Count&color=brightgreen)
 
